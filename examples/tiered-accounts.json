@@ -1,0 +1,11 @@
+[
+  { "domain": "northgate-machining.com", "tier": "A" },
+  { "domain": "harborline-logistics.com", "tier": "A" },
+  { "domain": "coldchain-co.com", "tier": "A" },
+  { "domain": "ridgeway-tools.com", "tier": "B" },
+  { "domain": "atlas-conveyors.com", "tier": "B" },
+  { "domain": "pinecrest-packaging.com", "tier": "B" },
+  { "domain": "keystone-forge.com", "tier": "C" },
+  { "domain": "lakeshore-freight.com", "tier": "C" },
+  { "domain": "summit-pallets.com", "tier": "D" }
+]

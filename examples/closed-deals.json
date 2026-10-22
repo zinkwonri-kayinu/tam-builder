@@ -1,0 +1,7 @@
+[
+  { "domain": "northgate-machining.com", "outcome": "closed_won", "employee_count": 420, "industry": "machinery manufacturing", "tech_stack": ["Salesforce", "HubSpot"], "job_openings_growth": 0.4, "company_maturity_years": 18 },
+  { "domain": "coldchain-co.com", "outcome": "closed_won", "employee_count": 610, "industry": "supply chain", "tech_stack": ["Salesforce", "NetSuite"], "job_openings_growth": 0.3, "company_maturity_years": 22 },
+  { "domain": "harborline-logistics.com", "outcome": "closed_won", "employee_count": 1300, "industry": "logistics", "tech_stack": ["Salesforce"], "job_openings_growth": 0.6, "company_maturity_years": 12 },
+  { "domain": "tinyfab.io", "outcome": "closed_lost", "employee_count": 35, "industry": "manufacturing", "tech_stack": ["Zoho"], "job_openings_growth": -0.2, "company_maturity_years": 4 },
+  { "domain": "brightpath-saas.com", "outcome": "closed_lost", "employee_count": 300, "industry": "software", "tech_stack": ["HubSpot", "Zoho"], "job_openings_growth": 0.1, "company_maturity_years": 6 }
+]

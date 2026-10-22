@@ -1,0 +1,11 @@
+[
+  { "domain": "https://www.northgate-machining.com/", "company_name": "Northgate Machining", "employee_count": 420, "industry": "Industrial Machinery Manufacturing" },
+  { "domain": "northgate-machining.com", "company_name": "Northgate Machining (dup)", "employee_count": 420, "industry": "Manufacturing" },
+  { "domain": "harborline-logistics.com", "company_name": "Harborline Logistics", "employee_count": 1300, "industry": "Logistics and Warehousing" },
+  { "domain": "tinyfab.io", "company_name": "TinyFab", "employee_count": 35, "industry": "Manufacturing" },
+  { "domain": "megaplant.com", "company_name": "MegaPlant", "employee_count": 25000, "industry": "Industrial Automation" },
+  { "domain": "supplysmart-consulting.com", "company_name": "SupplySmart", "employee_count": 250, "industry": "Supply Chain Consulting" },
+  { "domain": "brightpath-saas.com", "company_name": "BrightPath", "employee_count": 300, "industry": "Software" },
+  { "domain": "coldchain-co.com", "company_name": "ColdChain Co", "employee_count": 610, "industry": "Supply Chain & Cold Storage" },
+  { "domain": "", "company_name": "No Domain Inc", "employee_count": 500, "industry": "Manufacturing" }
+]

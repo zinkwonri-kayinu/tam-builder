@@ -1,0 +1,18 @@
+{
+  "vertical": "industrial",
+  "employee_count": { "min": 100, "max": 2000 },
+  "industry_keywords": [
+    "manufacturing",
+    "industrial equipment",
+    "machinery",
+    "logistics",
+    "warehousing",
+    "supply chain",
+    "industrial automation"
+  ],
+  "exclude_keywords": [
+    "staffing agency",
+    "consulting"
+  ],
+  "geography": null
+}

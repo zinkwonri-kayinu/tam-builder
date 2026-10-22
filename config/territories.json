@@ -1,0 +1,9 @@
+{
+  "reps": [
+    { "name": "Rep 1 (placeholder)", "capacity": 100 },
+    { "name": "Rep 2 (placeholder)", "capacity": 100 },
+    { "name": "Rep 3 (placeholder)", "capacity": 100 }
+  ],
+  "tier_priority": ["A", "B", "C", "D"],
+  "balance_strategy": "round_robin_by_tier"
+}

@@ -1,0 +1,3 @@
+domain,company_name,outcome,close_date,employee_count,industry,tech_stack,deal_size
+example-industrial.com,Example Industrial Co,closed_won,2026-06-01,450,manufacturing,Salesforce;HubSpot,50000
+example-lost.com,Example Lost Co,closed_lost,2026-05-15,300,logistics,Zoho,20000

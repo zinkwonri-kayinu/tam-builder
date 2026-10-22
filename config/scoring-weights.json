@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "last_refined": null,
+  "refined_from_deal_count": 0,
+  "signals": {
+    "employee_count_band_match": 1.0,
+    "tech_stack_overlap": 1.0,
+    "job_openings_growth": 1.0,
+    "company_maturity_years": 1.0,
+    "revenue_band_match": 1.0,
+    "industry_subvertical_match": 1.0
+  },
+  "tiers": {
+    "A": { "min_score": 0.75 },
+    "B": { "min_score": 0.5 },
+    "C": { "min_score": 0.25 },
+    "D": { "min_score": 0 }
+  }
+}

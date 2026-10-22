@@ -1,0 +1,11 @@
+{
+  "name": "tam-builder",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Self-refining TAM and territory builder: ICP filter, win/loss signal scoring, tier-balanced territories.",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": { "node": ">=20" },
+  "license": "MIT"
+}
